@@ -1,0 +1,80 @@
+#user{
+	color:rgb(64,224,208);
+	padding-right: 10px;	
+}
+h2{
+	font-size: 30px;
+	padding: 20px;
+
+}
+#users{
+	display: block;
+	width: 1200px;
+	height: 150px;
+	padding-left,padding-bottom,padding-top: 50px;
+	padding-bottom: 20px;
+	border:1px #00FFFF;
+	margin: 5px;
+	box-sizing: border-box;
+background-color: rgba(175,238,238,0.1);
+}
+#user1{
+	width: 800px;
+	padding-right: 15px;
+	color: rgb(128,128,128);
+}
+#user2{
+	text-decoration: underline;
+}
+input.top{
+  display: block;
+  padding: 10px;
+  color: rgb(64,224,208);
+  border:1px solid rgb(64,224,208);
+  margin: 20px;
+  border-radius: 10px;
+  background-color: rgba(175,238,238,0.1);
+}
+input{
+	display: block;
+	padding: 10px;
+	color: rgb(64,224,208);
+    border:1px solid rgb(64,224,208);
+    margin: 20px;
+    background-color: rgba(175,238,238,0.1);
+
+}
+#blog,#newsletter,#whitepaper,#e-book,#report,#product,#website,#video,#company,#press{
+	float: left;
+	display: block;
+	padding: 15px;
+	margin: 15px;
+	background-color: rgba(175,238,238,0.1);
+	width: 350px;
+	height: 250px;
+}
+footer{
+	clear: left;
+	text-align: center;
+ color:rgb(128,128,128); 
+}
+#footer{
+	text-decoration: underline;
+   
+}
+#gray{
+	color:rgb(128,128,128);
+}
+.fas fa-dove{
+	color: Dodgerblue;
+	font-size: 48px;
+}
+h3{ 
+	font-size: 20px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid gray;
+	 box-shadow: 3px 6px rgba(128,128,128,0.4);
+	}
+#panda{
+	font-style: bold;
+}
